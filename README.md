@@ -1,2 +1,3 @@
 # Car-counter-using-python-opsahu-omprakashsahu-op-sahuop
-a car counter app using python which leverages many python packages as ultralytics, scikit-image and many more for tracking the cars in an masked area / opsahu/op/sahuop/omprakashsahu
+firstly install all the packages defined in the program
+this project is very slow to run on processors or rams under 8gb and should be executed on systems with gpu
